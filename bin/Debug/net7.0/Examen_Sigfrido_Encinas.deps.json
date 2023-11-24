@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Examen_Sigfrido_Encinas/1.0.0": {
+        "runtime": {
+          "Examen_Sigfrido_Encinas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examen_Sigfrido_Encinas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

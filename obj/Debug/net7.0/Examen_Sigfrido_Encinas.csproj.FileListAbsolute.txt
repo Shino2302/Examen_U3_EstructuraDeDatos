@@ -1,0 +1,15 @@
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\bin\Debug\net7.0\Examen_Sigfrido_Encinas.exe
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\bin\Debug\net7.0\Examen_Sigfrido_Encinas.deps.json
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\bin\Debug\net7.0\Examen_Sigfrido_Encinas.runtimeconfig.json
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\bin\Debug\net7.0\Examen_Sigfrido_Encinas.dll
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\bin\Debug\net7.0\Examen_Sigfrido_Encinas.pdb
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\obj\Debug\net7.0\Examen_Sigfrido_Encinas.csproj.AssemblyReference.cache
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\obj\Debug\net7.0\Examen_Sigfrido_Encinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\obj\Debug\net7.0\Examen_Sigfrido_Encinas.AssemblyInfoInputs.cache
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\obj\Debug\net7.0\Examen_Sigfrido_Encinas.AssemblyInfo.cs
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\obj\Debug\net7.0\Examen_Sigfrido_Encinas.csproj.CoreCompileInputs.cache
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\obj\Debug\net7.0\Examen_Sigfrido_Encinas.dll
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\obj\Debug\net7.0\refint\Examen_Sigfrido_Encinas.dll
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\obj\Debug\net7.0\Examen_Sigfrido_Encinas.pdb
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\obj\Debug\net7.0\Examen_Sigfrido_Encinas.genruntimeconfig.cache
+C:\Users\cd13\Downloads\Examen_Sigfrido_Encinas\obj\Debug\net7.0\ref\Examen_Sigfrido_Encinas.dll
